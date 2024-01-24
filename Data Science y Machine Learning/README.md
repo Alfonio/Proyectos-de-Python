@@ -70,8 +70,16 @@
 
 </br>
 
-<h2 align=center>ml</h2>
+<h2 align=center>Machine Learning: clasificación con SKLearn</h2>
 
 ## **Utilizo**
+
+| Recurso                                    | Enlace                                           |
+| ------------------------------------------ | ------------------------------------------------- |
+| Documentación de Python                    | [Python Docs](https://docs.python.org/3/)         |
+| Documentación de scikit-learn              | [scikit-learn Docs](https://scikit-learn.org/stable/documentation.html) |
+| Documentación de Pandas                    | [Pandas Docs](https://pandas.pydata.org/docs/)    |
+| Documentación de Seaborn                   | [Seaborn Docs](https://seaborn.pydata.org/)       |
+| Base de datos de ejemplo (tracking.csv)    | [Click aquí](https://gist.githubusercontent.com/ahcamachod/38673f75b54ec62ffc290eff8e7c716e/raw/6eaa07e199d9f668bf94a034cb84dac58c82fa4f/tracking.csv) |
 
 </br>
