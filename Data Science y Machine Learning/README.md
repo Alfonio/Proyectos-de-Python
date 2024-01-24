@@ -65,6 +65,8 @@
 | Pandas                                     | [Pandas Docs](https://pandas.pydata.org/)         |
 | Matplotlib                                 | [Matplotlib Docs](https://matplotlib.org/)       |
 | SciPy - Estadísticas                       | [SciPy Stats Docs](https://docs.scipy.org/doc/scipy/reference/stats.html) |
+| credit_card.csv                            | [Click aquí](https://github.com/Alfonio/Proyectos-de-Python/blob/main/Data%20Science%20y%20Machine%20Learning/Data%20Visualization%20Explorando%20con%20Seaborn/credit_card.csv) |
+| credit_card_actualizado.csv                | [Click aquí](https://github.com/Alfonio/Proyectos-de-Python/blob/main/Data%20Science%20y%20Machine%20Learning/Data%20Visualization%20Explorando%20con%20Seaborn/credit_card_actualizado.csv) |
 
 </br>
 
